@@ -13,11 +13,11 @@ For iOS devices, download the app from the AppStore. For Android devices, downlo
 
 <p align="center">
   <a target="_blank" href="https://itunes.apple.com/us/app/load-one-driver/id1294361772?mt=8" style="text-decoration: none;">
-    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+    <img alt="Download on the App Store" title="App Store" src="_media/appstore.png" width="140" data-no-zoom>
   </a>
 
   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.loadone.driverapp">
-    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+    <img alt="Get it on Google Play" title="Google Play" src="_media/googleplay.png" width="140" data-no-zoom>
   </a>
 </p>
 
