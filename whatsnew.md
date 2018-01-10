@@ -3,3 +3,6 @@
 
 ![image1](_media/imagemapoptions.png)
 
+<P>In the Settings page, links to the support website and email are now available.</P> 
+
+![image1](_media/imagesettings.png)
