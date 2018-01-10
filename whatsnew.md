@@ -10,3 +10,11 @@
 <P>In the Settings page, links to the support website and email are now available.</P> 
 
 ![image1](_media/whatsnew/imagesettings.png)
+
+<P>On the Trip and Load Maps, a weather layer icon has been added to toggle display of precipitation patterns.</P>
+
+![image1](_media/whatsnew/imageweather.png)
+
+<P>On the Dashboard page, clicking on Out of Service status allows you to mark yourself In Service now.</P>
+
+![image1](_media/whatsnew/imageinsnow.png)
