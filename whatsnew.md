@@ -3,7 +3,7 @@
 
 ![image1](_media/whatsnew/imagemapoptions.png)
 
-<P>On the Dashboard page, When Out of Service, your next Due In Service date and time are now displayed.</P> 
+<P>On the Dashboard page, when Out of Service, your next Due In Service date and time are now displayed.</P> 
 
 ![image1](_media/whatsnew/imagedashboardoos1.png)
 
