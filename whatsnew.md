@@ -5,7 +5,7 @@
 
 <P>In the Dashboard page, When Out of Service, your next Due In Service date and time are now displayed.</P> 
 
-![image1](_media/whatsnew/imagedashboardoos.png)
+![image1](_media/whatsnew/imagedashboardoos1.png)
 
 <P>In the Settings page, links to the support website and email are now available.</P> 
 
