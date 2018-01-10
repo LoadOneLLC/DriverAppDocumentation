@@ -15,8 +15,11 @@
   - [Rewards](rewards.md)
   - [Settings](settings.md)
 
-- [What's New](whatsnew.md)
+- What's New
+  - [What's New](whatsnew.md)
 
-- [Videos](videos.md)
+- Videos
+  - [App Tutorial](videos.md)
 
-- [Changelog](changelog.md)
+- Change Log
+  - [Changelog](changelog.md)
