@@ -15,5 +15,8 @@
   - [Rewards](rewards.md)
   - [Settings](settings.md)
 
+- [What's New](whatsnew.md)
+
 - [Videos](videos.md)
+
 - [Changelog](changelog.md)
