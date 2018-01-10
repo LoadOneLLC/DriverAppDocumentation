@@ -16,7 +16,7 @@
   - [Settings](settings.md)
 
 - What's New
-  - [See What's New!](whatsnew.md)
+  - [See What's New!](whatsnew.md) 
 
 - Videos
   - [App Tutorial](videos.md)
