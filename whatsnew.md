@@ -1,20 +1,19 @@
-<P>On the Trip Map, when you tap on the Route icon, you are now given options on what routing app to use.&nbsp;&nbsp;For iOS devices, you have an additional option to use Apple Maps:
-</P>
+On the Trip Map, when you tap on the Route icon, you are now given options on what routing app to use.  For iOS devices, you have an additional option to use Apple Maps:
 
-![image1](_media/whatsnew/imagemapoptions.png)
+![imagemapoptions](_media/whatsnew/imagemapoptions.png)
 
-<P>On the Dashboard page, when Out of Service, your next Due In Service date and time are now displayed.</P> 
+On the Dashboard page, when Out of Service, your next Due In Service date and time are now displayed.
 
-![image1](_media/whatsnew/imagedashboardoos1.png)
+![imagedashboardoos1](_media/whatsnew/imagedashboardoos1.png)
 
-<P>On the Settings page, links to the support website and email are now available.</P> 
+On the Settings page, links to the support website and email are now available.
 
-![image1](_media/whatsnew/imagesettings.png)
+![imagesettings](_media/whatsnew/imagesettings.png)
 
-<P>On the Trip and Load Maps, a weather layer icon has been added to toggle display of precipitation patterns.</P>
+On the Trip and Load Maps, a weather layer icon has been added to toggle display of precipitation patterns.
 
-![image1](_media/whatsnew/imageweather.png)
+![imageweather](_media/whatsnew/imageweather.png)
 
-<P>On the Dashboard page, clicking on Out of Service status allows you to mark yourself In Service now.</P>
+On the Dashboard page, clicking on Out of Service status allows you to mark yourself In Service now.
 
-![image1](_media/whatsnew/imageinsnow.png)
+![imageinsnow](_media/whatsnew/imageinsnow.png)
