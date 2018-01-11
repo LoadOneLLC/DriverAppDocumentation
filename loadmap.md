@@ -1,4 +1,4 @@
-The Load Map tab bar option provides you with two types of visual summaries, Missed Opportunities and Shipments Booked. Missed Opportunities are loads that Load1 could not secure due to various reasons. Booked Shipments are loads that Load1 assets moved. For both options, the markers displayed represent origin points of loads requiring the same truck class as yours.
+The Load Map tab bar option provides you with two types of visual summaries, Missed Opportunities and Shipments Booked. Missed Opportunities are loads that Load1 could not secure due to various reasons. Booked Shipments are loads that Load1 successfully moved. For both options, the markers displayed represent origin points of loads requiring the same truck class as yours.
 
 By default, the map also displays latest known locations of other In Service Load1 trucks of the same class (blue truck markers).
 
