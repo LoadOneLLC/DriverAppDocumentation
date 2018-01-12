@@ -11,7 +11,7 @@
   - [Planned Orders](planned.md)
   - [Paperwork](paperwork.md)
   - [Omnitracs Messages](messages.md)
-  - [Workflow Event Messages](workflow.md)
+  - [Workflow Events](workflow.md)
   - [Load Map](loadmap.md)
   - [Rewards](rewards.md)
   - [Settings](settings.md)
