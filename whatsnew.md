@@ -16,7 +16,8 @@ Empty Event:
 ![image1](_media/messages/imageempty1.png)
 ![image2](_media/messages/imageempty2.png)
 
-On the HOS screen, we've added the 'Until Next Break' hours.
+On the HOS screen, we've added 'Until Next Break' hours.
+
 ![image1](_media/hos/imageHOS2.png)
 
 
