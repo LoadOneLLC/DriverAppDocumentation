@@ -16,6 +16,10 @@ Empty Event:
 ![image1](_media/messages/imageempty1.png)
 ![image2](_media/messages/imageempty2.png)
 
+On the HOS screen, we've added the 'Until Next Break' hours.
+![image1](_media/messages/imagehos2.png)
+
+
 On the Trip Map, when you tap on the Route icon, you are now given options on what routing app to use.  For iOS devices, you have an additional option to use Apple Maps:
 
 ![imagemapoptions](_media/whatsnew/imagemapoptions.png)
