@@ -1,3 +1,20 @@
+
+Workflow events are now supported.  You can send ARRIVE, LOAD and EMPTY events when active on a load.
+
+Arrive Event:
+
+![image1](_media/messages/imagearrive1.png)
+![image2](_media/messages/imagearrive2.png)
+
+Load Event:
+
+![image1](_media/messages/imageload1.png)
+![image2](_media/messages/imageload2.png)
+
+Empty Event:
+
+![image1](_media/messages/imageempty1.png)
+![image2](_media/messages/imageempty2.png)
 On the Trip Map, when you tap on the Route icon, you are now given options on what routing app to use.  For iOS devices, you have an additional option to use Apple Maps:
 
 ![imagemapoptions](_media/whatsnew/imagemapoptions.png)
