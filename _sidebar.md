@@ -21,6 +21,3 @@
 
 - Videos
   - [App Tutorial](videos.md)
-
-- Change Log
-  - [Changelog](changelog.md)

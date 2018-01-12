@@ -7,3 +7,4 @@
 > For Android and iOS based devices
 
 [Get Started](getting-started.md)
+[What's New](whatsnew.md)
