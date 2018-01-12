@@ -3,4 +3,4 @@ The Hours Of Service (HOS) card displays the lowest of the HOS metrics most rece
 ![image1](_media/hos/image1.png)
 ![image2](_media/hos/imageHOS2.png)
 
-!> The app uses Omnitracs HOS data. Information presented is for reference purposes only. Always check your Omnitracs unit for the latest and most accurate HOS metrics.
+The app uses Omnitracs HOS data. Information presented is for reference purposes only. Always check your Omnitracs unit for the latest and most accurate HOS metrics.
