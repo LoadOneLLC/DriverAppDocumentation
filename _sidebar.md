@@ -11,6 +11,7 @@
   - [Planned Orders](planned.md)
   - [Paperwork](paperwork.md)
   - [Messages](messages.md)
+  - [Workflow Events](workflow.md)
   - [Load Map](loadmap.md)
   - [Rewards](rewards.md)
   - [Settings](settings.md)
