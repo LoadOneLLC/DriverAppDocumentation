@@ -5,6 +5,9 @@ Android scanning is finally here!  For Android users, the paperwork scanning fea
 ![image2](_media/whatsnew/imageAndroidscan.png)
 ![image3](_media/whatsnew/imageAndroidscan3.png)
 
+You can now send Fleet Management staff other tpyes of papework from the app.  If you select any paperwork type option below -EMAIL TO FLEET MGMT-, the app will send it to that group. 
+![image1](_media/whatsnew/imagepwtypes.png)
+
 Time zones are now displayed for all date/time data.  This will help in troubleshooting issues with devices supposedly not displaying correct PU/DEL times.
 
 ![image1](_media/whatsnew/imageTMZ.png)
