@@ -1,4 +1,9 @@
 
+Time zones are now displayed for all date/time data.  This will help with troubleshooting issues with devices supposedly not displaying correct PU/DEL times.
+
+![image1](_media/messages/imagetmz.png)
+
+
 Workflow events are now supported.  You can send ARRIVE, LOAD and EMPTY events when active on a load.
 
 Arrive Event:
