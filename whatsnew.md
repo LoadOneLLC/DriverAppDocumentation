@@ -1,4 +1,6 @@
 
+Android scanning is finally here!  For Android users, the paperwork scanning feature is now available just like for iOS devices.  Please get the latest Load One Driver app update from the Google Play Store to take advantage of this neat feature.
+
 Time zones are now displayed for all date/time data.  This will help in troubleshooting issues with devices supposedly not displaying correct PU/DEL times.
 
 ![image1](_media/whatsnew/imageTMZ.png)
