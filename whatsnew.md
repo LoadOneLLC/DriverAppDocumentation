@@ -1,8 +1,11 @@
 
 Time zones are now displayed for all date/time data.  This will help with troubleshooting issues with devices supposedly not displaying correct PU/DEL times.
 
-![image1](_media/messages/imagetmz.png)
+![image1](_media/whatsnew/imageTMZ.png)
 
+Link to company store. This opens up the browser to navigate site.
+
+![image1](_media/whatsnew/imagecostore.png)
 
 Workflow events are now supported.  You can send ARRIVE, LOAD and EMPTY events when active on a load.
 
