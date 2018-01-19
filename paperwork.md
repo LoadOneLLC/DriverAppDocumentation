@@ -12,7 +12,6 @@ A scan feature enables the app to process pictures taken to look like scanned do
 ![image4](_media/paperwork/image4.png)
 ![image5](_media/paperwork/image5.png)
 
-
 The Pro # and Paperwork Type required are automatically selected. Tap on Upload Paperwork to submit the image chosen.
 
 ![image6](_media/paperwork/image6.png)
