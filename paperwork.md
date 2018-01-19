@@ -12,7 +12,7 @@ A scan feature enables the app to process pictures taken to look like scanned do
 ![image4](_media/paperwork/image4.png)
 ![image5](_media/paperwork/image5.png)
 
-?> Currently, only iOS devices support the scanning feature. Android devices are limited to taking pictures and selecting from the photo library. We are working on the next version of the app that will support this.
+?> 
 
 The Pro # and Paperwork Type required are automatically selected. Tap on Upload Paperwork to submit the image chosen.
 
