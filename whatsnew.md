@@ -3,6 +3,7 @@ Android scanning is finally here!  For Android users, the paperwork scanning fea
 
 ![image1](_media/whatsnew/imageAndroidscan1.png)
 ![image2](_media/whatsnew/imageAndroidscan.png)
+![image3](_media/whatsnew/imageAndroidscan3.png)
 
 Time zones are now displayed for all date/time data.  This will help in troubleshooting issues with devices supposedly not displaying correct PU/DEL times.
 
