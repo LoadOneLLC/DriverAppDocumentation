@@ -1,4 +1,6 @@
 
+01/19/2018
+
 Android scanning is finally here!  For Android users, the paperwork scanning feature is now available just like on iOS devices.  Instead of just taking a picture, the app converts the image to look like scanned paperwork.  Please get the latest Load One Driver app update from the Google Play Store to take advantage of this neat feature.
 
 ![image1](_media/whatsnew/imageAndroidscan1.png)
@@ -16,6 +18,8 @@ Time zones are now displayed for all date/time data.  This will help in troubles
 There is now a link to the company store. This opens up the browser to navigate the site.
 
 ![image1](_media/whatsnew/imagecostore.png)
+
+01/09/2018
 
 Workflow events are now supported.  You can send ARRIVE, LOAD and EMPTY events when active on a load.
 
