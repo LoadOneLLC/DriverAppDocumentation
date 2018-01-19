@@ -12,9 +12,7 @@ A scan feature enables the app to process pictures taken to look like scanned do
 ![image4](_media/paperwork/image4.png)
 ![image5](_media/paperwork/image5.png)
 
-The Pro # and Paperwork Type required are automatically selected. Tap on Upload Paperwork to submit the image chosen.
-
-![image6](_media/paperwork/image6.png)
+The Pro # and Paperwork Type required are automatically selected. Tap on Upload Document to submit the image chosen.
 
 You can also submit images for past trips by tapping on the Upload/Share icon found on the upper right-hand corner of the Paperwork screen. Scan or select an image to submit.
 
@@ -26,7 +24,7 @@ Enter the Pro # that the image is for or if you’re on a trip, leave it blank t
 Tap on Paperwork Type to select a different one as necessary. Then tap on Upload Paperwork to submit.
 
 ![image9](_media/paperwork/image9.png)
-![image10](_media/paperwork/image10.png)
+![image10](_media/whatsnew/imagepwtypes.png)
 
 You will be informed when the upload process is complete and if it was successful in sending the image or if an error occurred.
 
