@@ -13,7 +13,7 @@ Time zones are now displayed for all date/time data.  This will help in troubles
 
 ![image1](_media/whatsnew/imageTMZ.png)
 
-Link to company store. This opens up the browser to navigate site.
+There is now a link to the company store. This opens up the browser to navigate the site.
 
 ![image1](_media/whatsnew/imagecostore.png)
 
