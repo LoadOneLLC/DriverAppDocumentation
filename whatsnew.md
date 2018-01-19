@@ -1,5 +1,5 @@
 
-Time zones are now displayed for all date/time data.  This will help with troubleshooting issues with devices supposedly not displaying correct PU/DEL times.
+Time zones are now displayed for all date/time data.  This will help in troubleshooting issues with devices supposedly not displaying correct PU/DEL times.
 
 ![image1](_media/whatsnew/imageTMZ.png)
 
