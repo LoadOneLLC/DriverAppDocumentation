@@ -7,7 +7,7 @@ Android scanning is finally here!  For Android users, the paperwork scanning fea
 ![image2](_media/whatsnew/imageAndroidscan.png)
 ![image3](_media/whatsnew/imageAndroidscan3.png)
 
-You can now send Fleet Management staff other types of papework from the app.  If you select any paperwork type option below -EMAIL TO FLEET MGMT-, the app will send it to that group. 
+You can now send Fleet Management staff various types of papework from the app.  If you select any paperwork type option below -EMAIL TO FLEET MGMT-, the app will email it to that group. 
 
 ![image1](_media/whatsnew/imagepwtypes4.png)
 
