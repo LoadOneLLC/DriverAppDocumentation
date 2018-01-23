@@ -6,6 +6,9 @@ When In Service (and not on a load), you can now tap on the In Service status ca
 ![image1](_media/whatsnew/imagesetOOS1.png)
 ![image2](_media/whatsnew/imagesetOOS2.png)
 ![image3](_media/whatsnew/imagesetOOS3.png)
+![image4](_media/whatsnew/imagesetOOS4.png)
+![image5](_media/whatsnew/imagesetOOS5.png)
+![image6](_media/whatsnew/imagesetOOS6.png)
 
 01/19/2018
 
