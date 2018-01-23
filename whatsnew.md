@@ -1,4 +1,12 @@
 
+01/23/2018
+
+When In Service (and not on a load), you can now tap on the In Service status card to set yourself Out of Service (OOS).  The reason for going OOS must be selected from the list and an estimated in service date/time must also be provided.
+
+![image1](_media/whatsnew/imagesetOOS1.png)
+![image2](_media/whatsnew/imagesetOOS2.png)
+![image2](_media/whatsnew/imagesetOOS3.png)
+
 01/19/2018
 
 Android scanning is finally here!  For Android users, the paperwork scanning feature is now available just like on iOS devices.  Instead of just taking a picture, the app converts the image to look like scanned paperwork.  Please get the latest Load One Driver app update from the Google Play Store to take advantage of this neat feature.
