@@ -8,8 +8,8 @@ In the Estimated Pay details screen, we now include trips that have not been rat
 ![image1](_media/whatsnew/imagepayinfo3.png)
 ![image1](_media/whatsnew/imagepayinfo4.png)
 -->
-![image1](_media/whatsnew/imagepayinfo1.png)
 ![image1](_media/whatsnew/imagepayinfo2.png)
+![image1](_media/whatsnew/imagepayinfo1.png)
 
 
 01/23/2018
