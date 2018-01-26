@@ -1,4 +1,17 @@
 
+01/26/2018
+
+Pay info. for the two previous pay periods, current and next pay period can now be viewed (rotating 4 weeks).  From the dashboard, swipe left or right on the Pay Graph to switch from current to previous or next pay period summary.  Tapping on the Total $ Amount displays trips and estimated totals for the pay period in view.
+
+<!-- 
+In the Estimated Pay details screen, we now include trips that have not been rated ($0.00) to make it easier for you to reconcile what trips are included in the pay period you are viewing.  If a trip shows $0.00 estimated pay, please contact Load1 so the pay amount can be properly set.
+![image1](_media/whatsnew/imagepayinfo3.png)
+![image1](_media/whatsnew/imagepayinfo4.png)
+-->
+![image1](_media/whatsnew/imagepayinfo1.png)
+![image1](_media/whatsnew/imagepayinfo2.png)
+
+
 01/23/2018
 
 When In Service (and not on a load), you can now tap on the In Service status card to set yourself Out of Service (OOS).  The reason for going OOS must be selected from the list and your estimated in service date/time must also be provided.  The app will let you know if the message was successfully sent or if a processing error occurred.
