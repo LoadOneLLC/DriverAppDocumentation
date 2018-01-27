@@ -6,10 +6,14 @@ Pay info. for the two previous pay periods, current and next pay period can now 
 <!-- 
 In the Estimated Pay details screen, we now include trips that have not been rated ($0.00) to make it easier for you to reconcile what trips are included in the pay period you are viewing.  If a trip shows $0.00 estimated pay, please contact Load1 so the pay amount can be properly set.
 ![image1](_media/whatsnew/imagepayinfo3.png)
-![image1](_media/whatsnew/imagepayinfo4.png)
+![image2](_media/whatsnew/imagepayinfo4.png)
 -->
 ![image1](_media/whatsnew/imagepayinfo2.png)
-![image1](_media/whatsnew/imagepayinfo1.png)
+![image2](_media/whatsnew/imagepayinfo1.png)
+
+You can now email Fleet Management staff at Load1. This can be done from the Settings Page of the app. Tap on the link ‘Email Fleet Management’ when you have a need to correspond with this group.
+
+![image1](_media/whatsnew/imagesettings1.png)
 
 
 01/23/2018
