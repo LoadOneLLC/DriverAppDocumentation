@@ -17,7 +17,7 @@
   - [Settings](settings.md)
 
 - What's New
-  - [Did You Know...](whatsnew.md) 
+  - [Did You Know ...](whatsnew.md) 
 
 - Videos
   - [App Tutorial](videos.md)
