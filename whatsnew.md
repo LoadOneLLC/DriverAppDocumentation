@@ -1,5 +1,5 @@
 
-01/26/2018
+**01/26/2018**
 
 Pay info. for the two previous pay periods, current and next pay period can now be viewed (rotating 4 weeks).  From the dashboard, swipe left or right on the Pay Graph to switch from current to previous or next pay period summary.  Tapping on the Total $ Amount displays trips and estimated totals for the pay period in view.
 
@@ -16,7 +16,7 @@ You can now email Fleet Management staff at Load1. This can be done from the Set
 ![image1](_media/whatsnew/imagesettings1.png)
 
 
-01/23/2018
+**01/23/2018**
 
 When In Service (and not on a load), you can now tap on the In Service status card to set yourself Out of Service (OOS).  The reason for going OOS must be selected from the list and your estimated in service date/time must also be provided.  The app will let you know if the message was successfully sent or if a processing error occurred.
 
@@ -27,7 +27,7 @@ When In Service (and not on a load), you can now tap on the In Service status ca
 ![image5](_media/whatsnew/imagesetOOS5.png)
 ![image6](_media/whatsnew/imagesetOOS6.png)
 
-01/19/2018
+**01/19/2018**
 
 Android scanning is finally here!  For Android users, the paperwork scanning feature is now available just like on iOS devices.  Instead of just taking a picture, the app converts the image to look like scanned paperwork.  Please get the latest Load One Driver app update from the Google Play Store to take advantage of this neat feature.
 
@@ -47,7 +47,7 @@ There is now a link to the company store. This opens up the browser to navigate 
 
 ![image1](_media/whatsnew/imagecostore.png)
 
-01/09/2018
+**01/09/2018**
 
 Workflow events are now supported.  You can send ARRIVE, LOAD and EMPTY events when active on a load.
 
