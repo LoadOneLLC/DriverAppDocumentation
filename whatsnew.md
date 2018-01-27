@@ -11,7 +11,7 @@ In the Estimated Pay details screen, we now include trips that have not been rat
 ![image1](_media/whatsnew/imagepayinfo2.png)
 ![image2](_media/whatsnew/imagepayinfo1.png)
 
-You can now email Fleet Management staff at Load1. This can be done from the Settings Page of the app. Tap on the link ‘Email Fleet Management’ when you have a need to correspond with this group.
+You can now email Fleet Management staff at Load1. This can be done from the Settings Page. Tap on the link ‘Email Fleet Management’ when you have a need to correspond with this group.
 
 ![image1](_media/whatsnew/imagesettings1.png)
 
