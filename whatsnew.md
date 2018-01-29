@@ -16,7 +16,6 @@ You can now email Fleet Management staff at Load1. This can be done from the Set
 
 ![image1](_media/whatsnew/imagesettings1.png)
 
-
 **01/23/2018**
 
 When In Service (and not on a load), you can now tap on the In Service status card to set yourself Out of Service (OOS).  The reason for going OOS must be selected from the list and your estimated in service date/time must also be provided.  The app will let you know if the message was successfully sent or if a processing error occurred.
