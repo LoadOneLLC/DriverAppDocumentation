@@ -1,7 +1,7 @@
 
 **01/29/2018**
 
-In the Estimated Pay details screen, we now include trips that have not been rated ($0.00) to make it easier for you to reconcile what trips are included in the pay period you are viewing.  If a trip shows $0.00 estimated pay, please contact Load1 so the pay amount can be properly set.
+In the Estimated Pay details screen, we now include trips that have not been rated ($0.00) to make it easier for you to reconcile what trips are included in the pay period you are viewing.  Before this update, $0.00 rated trips were not being displayed. If a trip shows $0.00 estimated pay, please contact Load1 so the pay amount can be properly set.
 
 ![image1](_media/whatsnew/imagepayinfo4.png)
 
