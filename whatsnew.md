@@ -1,7 +1,7 @@
 
 **02/01/2018**
 
-In the Load Map, tapping on Load1 Unit icons now tells you how long the unit has been in service waiting for a load.
+In the Load Map, tapping on a Load1 Unit icon now tells you how long the unit has been in service waiting for a load.
 
 ![image1](_media/whatsnew/imagemapoptions1.png)
 
