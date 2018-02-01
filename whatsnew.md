@@ -1,6 +1,10 @@
 
 **02/01/2018**
 
+A new Terms and Conditions (T and C) for using the app has been published.  Please read the terms and hit 'I Disagree' or 'I Agree' button.  You won't be allowed to proceed if you don't agree to the terms.  You will also be able to access the T and C from the Settings page if you wish to review it.  In the future, if these terms are updated by Load1, you will be asked to read and agree to it again.  
+
+![image1](_media/whatsnew/imageTandC.png)
+
 In the Load Map, tapping on a Load1 Unit icon now tells you how long the unit has been in service waiting for a load.
 
 ![image1](_media/whatsnew/imagemapoptions1.png)
