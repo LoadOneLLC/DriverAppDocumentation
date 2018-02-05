@@ -12,7 +12,7 @@ In the Load Map, you can now select 'Today' to display Missed Opportunities or B
 
 When there is a new version of the app to download, you are now alerted of this on the dashboard.  Click on the alert to get the latest version of the app from the App Store or Google Play Store.
 
-![image1](_media/whatsnew/imagedashboardcard1.png)
+![image1](_media/whatsnew/imagedashboardcard.png)
 
 **02/01/2018**
 
