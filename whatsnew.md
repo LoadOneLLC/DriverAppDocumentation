@@ -6,7 +6,7 @@ A new option to upload paperwork has been added.  Now you can choose to upload a
 ![image2](_media/whatsnew/imagepwoption2.png)
 ![image3](_media/whatsnew/imagepwoption3.png)
 
-In the Load Map, you can now select 'Today' to display Missed Opportunities or Booked Loads for the current date.  This data will be more dynamic as it looks at live loads coming in as the day progresses.  Please make sure you refresh the screen to get the latest information.
+In the Load Map, you can now select 'Today' to display Missed Opportunities or Booked Loads for the current date.  This data will be more dynamic as it looks at live loads coming in as the day progresses.  Please make sure you refresh the screen often to get the latest information.
 
 ![image1](_media/whatsnew/imageloadmapoption1.png)
 
