@@ -1,6 +1,6 @@
 **02/05/2018**
 
-A new option to upload paperwork has been added.  Now you can choose to upload a PDF file.  This is a good alternative for uploading multiple pages all at once.  You can take advantage of your favorite PDF generating third party app to create the PDF and then use the LOD app to upload a single file.  To get this new feature, please download the latest version of the app from the App Store or Google Play Store.
+A new option to upload paperwork has been added.  Now you can choose a PDF file.  This is a good alternative for uploading multiple pages all at once.  You can take advantage of your favorite PDF generating third party app to create the PDF and then use the LOD app to upload a single file.  To get this new feature, please download the latest version of the app from the App Store or Google Play Store.
 
 ![image1](_media/whatsnew/imagepwoption1.png)
 ![image2](_media/whatsnew/imagepwoption2.png)
@@ -10,7 +10,7 @@ In the Load Map, you can now select 'Today' to display Missed Opportunities or B
 
 ![image1](_media/whatsnew/imageloadmapoption1.png)
 
-When there is a new version of the app to download, you are now alerted of this on the dashboard so you can get the latest version.
+When there is a new version of the app to download, you are now alerted of this on the dashboard.  Click on the alert to get the latest version of the app from the App Store or Google Play Store.
 
 ![image1](_media/whatsnew/imagedashboardcard1.png)
 
