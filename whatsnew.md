@@ -8,6 +8,8 @@ Another option to upload paperwork has been added.  Now you can choose to upload
 
 In the Load Map, you can now select 'Today' to display Missed Opportunities or Booked Loads for the current date.  This data will be more dynamic as it looks at live loads coming in as the day progresses.  Please make sure you refresh the screen to get the latest information.
 
+![image3](_media/whatsnew/imagedashboardcard1.png)
+
 **02/01/2018**
 
 In the Load Map, Load1 trucks with team drivers will now be represented as a blue truck icon with a 'T' in the middle.
