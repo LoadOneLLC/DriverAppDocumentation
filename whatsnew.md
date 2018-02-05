@@ -1,3 +1,12 @@
+**02/05/2018**
+
+Another option to upload paperwork has been added.  Now you can choose to upload a PDF file.  This is a good alternative for uploading multiple pages all at once.  You can use your favorite PDF generating third party app and then use the LOD app to upload a single file.  To get this new feature, please download the latest version of the app from the App Stor or Google Play Store.
+
+![image1](_media/whatsnew/imagepwoption1.png)
+![image2](_media/whatsnew/imagepwoption2.png)
+![image3](_media/whatsnew/imagepwoption3.png)
+
+In the Load Map, you can now select 'Today' to display Missed Opportunities or Booked Loads for the current date.  This data will be more dynamic as it looks at live loads coming in as the day progresses.  Please make sure you refresh the screen to get the latest information.
 
 **02/01/2018**
 
