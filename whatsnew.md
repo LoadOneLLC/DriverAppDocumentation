@@ -1,3 +1,9 @@
+**02/13/2018**
+
+In Paperwork screen, when submitting for past loads, the app will now validate the pro number entered to ensure it's for one of your completed loads.  This avoids sending paperwork for invalid pro numbers thereby reducing turn around time that could result in delayed payment due to errors.
+
+![image1](_media/whatsnew/imagepwoption4.png)
+
 **02/05/2018**
 
 A new option to upload paperwork has been added.  Now you can choose a PDF file.  This is a good alternative for uploading multiple pages all at once.  You can take advantage of your favorite PDF generating third party app to create the PDF and then use the LOD app to upload a single file.  To get this new feature, please download the latest version of the app from the App Store or Google Play Store.
