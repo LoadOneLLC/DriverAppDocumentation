@@ -1,5 +1,9 @@
 **02/16/2018**
 
+Weather layer on Trip and Load Maps now utilizes a more robust and detail-rich source to provide more detailed information on weather patterns than the previous version.  
+
+![image1](_media/whatsnew/imagemapoptions5.png)
+
 In the Pay Details screen, the breakdown of the Total Pay is now displayed (DH, LH, ACC, FSC).
 
 ![image1](_media/whatsnew/imagepayinfo5.png)
