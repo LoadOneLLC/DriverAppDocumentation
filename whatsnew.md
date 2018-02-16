@@ -1,3 +1,10 @@
+**02/16/2018**
+
+A new card has been added to the dashboard called EXPIRING DOCUMENTS.  This will alert you of compliance related documents that are expiring within 30 days.  Tapping on the card lists all documents that need to be updated. Tapping on the specific document allows you to automatically email fleetmanagement@load1.com the required document by using any of the upload options (Scan Paperwork, Select PDF, Select Image).
+
+![image1](_media/whatsnew/imagedashboardcard4.png)
+![image2](_media/whatsnew/imagedashboardcard5.png)
+
 **02/13/2018**
 
 In Paperwork screen, when submitting for past loads, the app will now validate the pro number entered to ensure it's for one of your completed loads.  This avoids sending paperwork for invalid pro numbers thereby reducing turn around time that could result in delayed payment due to errors.
