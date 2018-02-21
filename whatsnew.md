@@ -1,6 +1,6 @@
 **02/21/2018**
 
-You can now scan or select multiple pages of paperwork as a batch to submit them all at once.  This eliminates having to send the same paperwork type for a pro number as individual pages.  The scanned images are also now automatically saved in your photo library for future reference.
+You can now scan or select multiple pages of paperwork as a batch to submit all at once.  This eliminates having to send the same paperwork type for a pro number as individual pages.  The scanned images are also now automatically saved in your photo library for future reference.
 
 ![image1](_media/whatsnew/imagescan2.png)
 ![image2](_media/whatsnew/imagescan1.png)
