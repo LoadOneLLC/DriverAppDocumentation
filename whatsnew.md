@@ -1,8 +1,13 @@
-**02/16/2018**
+**02/21/2018**
+
+You can now scan or select multiple pages of paperwork as a batch to submit them all at once.  This eliminates having to send the same paperwork type for a pro number as individual pages.  The scanned images are also now automatically saved in your photo library for future reference.
+
+![image1](_media/whatsnew/imagescan2.png)
+![image2](_media/whatsnew/imagescan1.png)
 
 Weather layer on Trip and Load Maps now utilizes a more robust and detail-rich source to provide more detailed information on weather patterns than the previous version.  
 
-![image1](_media/whatsnew/imagemapoptions5.png)
+![image1](_media/whatsnew/imagemapweather.png)
 
 In the Pay Details screen, the breakdown of the Total Pay is now displayed (DH, LH, ACC, FSC).
 
