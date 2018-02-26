@@ -13,7 +13,7 @@ In the Pay Details screen, the breakdown of the Total Pay is now displayed (DH, 
 
 ![image1](_media/whatsnew/imagepaydetails1.png)
 
-In the dashboard, a new card has been added called EXPIRING DOCUMENTS.  This will alert you of compliance paperwork epxiring in the next 30 days.  Tapping on the card lists all types of paperwork that need to be updated and their expiry dates.  Tap on the specific document to submit it automatically to fleetmanagement@load1.com using any of the options to upload paperwork (Scan, Select PDF, Select Image).
+In the dashboard, a new card has been added called EXPIRING DOCUMENTS.  This will alert you of compliance paperwork expiring in the next 15 days.  Tapping on the card lists all types of paperwork that need to be updated and their expiry dates.  Tap on the specific document to submit it automatically to fleetmanagement@load1.com using any of the options to upload paperwork (Scan, Select PDF, Select Image).
 
 ![image1](_media/whatsnew/imagedashboardcard4.png)
 ![image2](_media/whatsnew/imagedashboardcard5.png)
