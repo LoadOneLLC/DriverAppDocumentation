@@ -1,6 +1,6 @@
 **03/02/2018**
 
-When sending ARRIVE/LOAD/EMPTY events, if there are STOP NOTES for the stop you are updating, these will now be displayed for your reference.
+When sending ARRIVE AT SHIPPER/CONSIGNEE events, if there are STOP NOTES for the stop you are updating, these will now be displayed for your reference.
 
 ![image1](_media/whatsnew/imagestopnotes1.png)
 
