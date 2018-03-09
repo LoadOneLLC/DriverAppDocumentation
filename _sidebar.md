@@ -20,4 +20,4 @@
   - [Did You Know ...](whatsnew.md) 
 
 - Videos
-  - [App Tutorial](videos.md)
+  - [Instructional Videos](videos.md)
