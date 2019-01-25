@@ -11,10 +11,8 @@ Screen shots and app behavior described and presented in this document are based
 
 For iOS devices, download the app from the AppStore. For Android devices, download from the Google Play Store. Click on the corresponding link below to start the download to your device:
 
-<p align="center">
-  [![Download on the App Store](_media/appstore.png ':no-zoom')](https://itunes.apple.com/us/app/load-one-driver/id1294361772?mt=8)
-  [![Get it on Google Play](_media/googleplay.png ':no-zoom')](https://play.google.com/store/apps/details?id=com.loadone.driverapp)
-</p>
+[![Download on the App Store](_media/appstore.png ':no-zoom')](https://itunes.apple.com/us/app/load-one-driver/id1294361772?mt=8)
+[![Get it on Google Play](_media/googleplay.png ':no-zoom')](https://play.google.com/store/apps/details?id=com.loadone.driverapp)
 
 # Activation
 
